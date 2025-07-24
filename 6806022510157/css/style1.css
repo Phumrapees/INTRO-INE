@@ -1,0 +1,7 @@
+h1 {
+    color: blueviolet;
+    font-size: 200px;
+}
+td:hover {
+    background-color: lightblue;
+}
