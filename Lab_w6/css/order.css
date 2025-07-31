@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    align-items: stretch;
+    background-color: aqua;
+}
+
+.flex-container>div {
+    background-color: lightblue;
+    color: aliceblue;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
